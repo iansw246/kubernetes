@@ -27,6 +27,7 @@ keda = { path = "apps/keda.py" }
 kubevirt = { path = "apps/kubevirt.py" }
 metallb = { path = "apps/metallb.py" }
 metrics-server = { path = "apps/metrics_server.py" }
+minio-rclone = { path = "apps/minio_rclone.py" }
 prometheus = { path = "apps/prometheus.py" }
 postgres-operator = { path = "apps/postgres_operator.py" }
 ocf-io = { path = "apps/ocf_io.py" }
